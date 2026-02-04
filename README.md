@@ -29,7 +29,7 @@ ai-file-robot/
 ├── ai_brain.py     # AI command interpreter (LLM integration)
 ├── file_ops.py     # File system operations
 ├── README.md       # Project documentation
-└── .gitignore
+└── test_openrouter.py   #testing the openrouter
 
 
 pip install requests
